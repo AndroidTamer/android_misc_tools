@@ -1,5 +1,26 @@
-Android Tools
-=============
+Android Misc Tools
+==================
+
+Initial Base Repository : https://github.com/jakev/android-tools
+
+However now this is used as a collection repository for all single file misc tools that we can find.
+
+For any questions contact anant[@]anantshri[.]info
+
+--------------
+INDEX OF FILES WITH SOURCES
+--------------
+
+apkget : https://github.com/jakev/android-tools
+getimage.sh : https://github.com/jakev/android-tools
+sendsecretcode : https://github.com/jakev/android-tools
+/binaries/* : https://github.com/jakev/android-binaries
+
+
+---------------------------------
+OLD README
+
+-----------------------------------
 
 About
 -----
