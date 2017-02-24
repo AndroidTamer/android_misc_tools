@@ -6,9 +6,10 @@
 # (this can be obtained from github.com/jakev/android-binaries)
 
 ADB_COMMAND="adb -e "
+MKFS=usr/share/android_misc_tools/mkfs.yaffs2
 
 echo -n "[+] Pushing mkfs.yaffs2 to device..."
-$ADB_COMMAND push mkfs.yaffs2 /data/local/
+$ADB_COMMAND push $MKFS /data/local/
 
 echo "[+] Executing \"chmod 770 /data/local/mkfs.yaffs2\""
 $ADB_COMMAND shell chmod 770 /data/local/mkfs.yaffs2
