@@ -11,10 +11,10 @@ For any questions contact anant[@]anantshri[.]info
 INDEX OF FILES WITH SOURCES
 --------------
 
-apkget : https://github.com/jakev/android-tools
-getimage.sh : https://github.com/jakev/android-tools
-sendsecretcode : https://github.com/jakev/android-tools
-/binaries/* : https://github.com/jakev/android-binaries
+* apkget : https://github.com/jakev/android-tools
+* getimage.sh : https://github.com/jakev/android-tools
+* sendsecretcode : https://github.com/jakev/android-tools
+* /binaries/* : https://github.com/jakev/android-binaries
 
 
 ---------------------------------
