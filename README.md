@@ -15,6 +15,7 @@ INDEX OF FILES WITH SOURCES
 * getimage.sh : https://github.com/jakev/android-tools
 * sendsecretcode : https://github.com/jakev/android-tools
 * /binaries/* : https://github.com/jakev/android-binaries
+* repackage_detection.py : https://github.com/MindMac/RepackageDetection
 
 
 ---------------------------------
