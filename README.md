@@ -16,6 +16,7 @@ INDEX OF FILES WITH SOURCES
 * sendsecretcode : https://github.com/jakev/android-tools
 * /binaries/* : https://github.com/jakev/android-binaries
 * repackage_detection.py : https://github.com/MindMac/RepackageDetection
+* recoversqlite.py and dumplite: https://github.com/aramosf/recoversqlite/
 
 
 ---------------------------------
